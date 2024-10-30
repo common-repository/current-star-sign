@@ -1,0 +1,15 @@
+.main {
+font-weight:bold;
+color:#000;
+font-size:13px;
+font-family:arial,verdana,sans-serif;
+padding:3px;
+text-shadow:none;
+}
+
+.olive {color:#6D6522;padding-left:5px;}
+.b-orange {color:#C66318;padding-left:5px; }
+.azure {color:#6B94A5;padding-left:5px; }
+.r-burgundy {color:#A6180A;padding-left:5px; }
+
+div.star-link, div.star-link a {font-size:9px;}
